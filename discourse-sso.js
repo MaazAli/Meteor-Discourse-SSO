@@ -1,0 +1,1 @@
+discourse_sso = Npm.require('discourse-sso');
